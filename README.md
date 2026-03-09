@@ -9,6 +9,8 @@ https://f-droid.org/F-Droid.apk
 - osmand~ starten, Karten herunterladen
 
 - Funkarme Orte unter "Favoriten" installieren
+https://kurzlinks.de/fa-orte-gpx
+identisch zu:
 https://raw.githubusercontent.com/ghmon/mutmasslich-funkarme-orte/refs/heads/main/germany_grid-filtered.gpx
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen
