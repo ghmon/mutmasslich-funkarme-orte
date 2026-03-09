@@ -1,16 +1,31 @@
 
-# Mutmasslich funkarme Orte - Import GPX in osmand
+# Mutmasslich funkarme Orte
 
-- f-droid installieren
-https://f-droid.org/F-Droid.apk
+Import GPX in Android App "osmand" oder "organic maps"
+
+- f-droid installieren: https://f-droid.org/F-Droid.apk
+
+- Download der GPX-Datei mit den funkarmen Orten:
+  https://kurzlinks.de/fa-orte-gpx
+
+** App "osmand~"
 
 - f-droid starten, suchen nach App "osmand~", installieren
 
-- osmand~ starten, Karten herunterladen
+- osmand~ starten, Karten der Regionen lokal (offline) herunterladen,
+  die Dich interessieren
 
-- Funkarme Orte unter "Favoriten" installieren
-https://kurzlinks.de/fa-orte-gpx
-identisch zu:
-https://raw.githubusercontent.com/ghmon/mutmasslich-funkarme-orte/refs/heads/main/germany_grid-filtered.gpx
+- In osmand~ GPX-Datei unter Menü "Meine Orte" importieren
+
+- evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen
+
+** App "organic maps"
+
+- f-droid starten, suchen nach App "organic maps", installieren
+
+- organic maps starten, Karten der Regionen lokal (offline)
+  herunterladen, die Dich interessieren
+
+- In organic maps GPX-Datei unter Menü "Lesezeichen und Tracks" importieren
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen
