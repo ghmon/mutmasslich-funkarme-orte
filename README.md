@@ -4,7 +4,7 @@ Autor: Christoph Conrad
 Aktuellste Version _dieser_ Datei immer hier:
 https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md
 
-# "Mutmaßlich funkarme Orte" ohne Internetverbindung
+# "Mutmaßlich funkarme Orte" für unterwegs - ohne Internetverbindung
 
 Die Karte "mutmasslich funkarmer Orte" hat sich als beliebt und
 nützlich erwiesen (https://kurzlinks.de/funkarme-orte). Die Verwendung
