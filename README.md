@@ -33,11 +33,11 @@ ODER mit fdroid
 f-droid installieren: https://f-droid.org/F-Droid.apk, f-droid
 starten, suchen nach App "osmand~", installieren.
 
-- osmand~ starten, Karten der Regionen herunterladen, die Dich
+- osmand~ (oder osmand, osmand+) starten, Karten der Regionen herunterladen, die Dich
   interessieren. Diese Karten stehen dann auch ohne Internetverbindung
   zur Verfügung.
 
-- In osmand~ GPX-Datei unter Menü "Meine Orte" importieren.
+- GPX-Datei unter dem Menüpunkt "Meine Orte" importieren.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
@@ -58,6 +58,6 @@ f-droid starten, suchen nach App "organic maps", installieren.
   interessieren. Diese Karten stehen dann auch ohne Internetverbindung
   zur Verfügung.
 
-- In organic maps GPX-Datei unter Menü "Lesezeichen und Tracks" importieren.
+- GPX-Datei unter Menü "Lesezeichen und Tracks" importieren.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
