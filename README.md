@@ -1,23 +1,32 @@
 
-Christoph Conrad
+Autor: Christoph Conrad
 
-Aktuellste Version dieser Datei immer hier:
+Aktuellste Version _dieser_ Datei immer hier:
 https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md
 
-# "Mutmasslich funkarme Orte" ohne Internetverbindung
+# "Mutmaßlich funkarme Orte" ohne Internetverbindung
 
-Import einer GPX-Datei mit den Orten in die Android Apps "osmand" oder
-"organic maps". In beiden Programmen werden die funkarmen Orte auf
-Landkarten dargestellt. Diese Karten können auch ohne
-Internetverbindung genutzt werden.
+Die Karte "mutmasslich funkarmer Orte" hat sich als beliebt und
+nützlich erwiesen (https://kurzlinks.de/funkarme-orte). Die Verwendung
+der Karte setzt aber eine Verbindung zum Internet voraus. "Unterwegs"
+wäre das in der Regel eine Mobilfunkverbindung ("mobile Daten"), die
+von den Nutzern der Karte eher nicht erwünscht ist.
 
-Von "organic maps" gibt es nur eine Variante, die uneingeschränkten
-Kartendownload erlaubt. Diese kann über den Google Play Store oder
-fdroid heruntergeladen werden.
+Deshalb gibt es nun die "funkarmen Orte" in einer Datei zum Import in
+Programme auf Android-Apps, DIE DIE VERWENDUNG VON LANDKARTEN AUCH
+OHNE INTERNETVERBINDUNG ERLAUBEN. Diese Datei wird im folgenden
+"GPX-Datei" genannt, da das Datenformat so heisst. GPX = "GPS Exchange
+Format". Die in der GPX-Datei enthaltenen Orte entsprechen den Orten
+in der Onlinekarte.
 
-Von "organic maps" gibt es nur eine Variante, die uneingeschränkten
-Kartendownload erlaubt. Diese kann über den Google Play Store oder
-fdroid heruntergeladen werden.
+Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
+die Android Apps "osmand" oder "organic maps" beschrieben. Es reicht,
+sich für eines der Programme zu entscheiden. In beiden Programmen
+werden die funkarmen Orte auf Landkarten dargestellt.
+
+Von "organic maps" gibt es nur eine Programm-Variante, die bereits
+uneingeschränkten Kartendownload erlaubt. Diese kann über den Google
+Play Store oder fdroid heruntergeladen werden.
 
 Von "osmand" existieren drei Varianten: "osmand~" ist die LEGALE
 kostenfreie Vollversion von "osmand+", aber nur durch Installation
