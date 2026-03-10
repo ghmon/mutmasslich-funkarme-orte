@@ -1,5 +1,6 @@
 
 Autor: Christoph Conrad
+Stand dieser Doku: 10. März 2026
 
 Aktuellste Version _dieser_ Datei immer hier:
 https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md
@@ -27,9 +28,9 @@ zwischen Gerät und an das Internet angeschlossen PC per Programm
 "gnirehtet" (https://github.com/Genymobile/gnirehtet). "gnirehtet" ist
 aber eher für "Experten".
 
-Die USB-to-LAN-Kabel sind recht günstig zu erwerben, 5-15
-€. Beschreibungen zur Anbindung per USB-to-LAN Kabel finden sich zum
-Beispiel bei Chip unter
+Die USB-to-LAN-Kabel sind recht günstig zu erwerben, 5-15 € Stand
+März 2026. Beschreibungen zur Anbindung per USB-to-LAN Kabel finden
+sich zum Beispiel bei Chip unter
 <https://kurzlinks.de/android-internet-per-lan>.
 
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
@@ -44,10 +45,10 @@ Play Store oder fdroid heruntergeladen werden.
 Von "OsmAnd" existieren drei Varianten: "OsmAnd~" ist die LEGALE
 kostenfreie Vollversion von "OsmAnd+", aber nur durch Installation
 über fdroid erhältlich. "OsmAnd+" bei Installation über den Google
-Play Store ebenfalls die Vollversion, aber kostenpflichtig (~70
-€). "OsmAnd~" ist weitgehend funktional identisch zu "OsmAnd+", es
-fehlen einige hier unwichtige Funktionen wie "Android Auto" oder
-"OsmAnd Cloud".
+Play Store ebenfalls die Vollversion, aber kostenpflichtig (~70 €,
+März 2026). "OsmAnd~" ist weitgehend funktional identisch zu
+"OsmAnd+", es fehlen einige hier unwichtige Funktionen wie "Android
+Auto" oder "OsmAnd Cloud".
 
 - Download der GPX-Datei mit den funkarmen Orten:
   https://kurzlinks.de/fa-orte-gpx
