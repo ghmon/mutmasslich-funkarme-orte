@@ -10,22 +10,37 @@ Import GPX in Android App "osmand" oder "organic maps"
 
 ** App "osmand~"
 
-- f-droid starten, suchen nach App "osmand~", installieren
+- f-droid starten, suchen nach App "osmand~", installieren.
 
-- osmand~ starten, Karten der Regionen lokal (offline) herunterladen,
-  die Dich interessieren
+"osmand~" ist die LEGALE kostenfreie Vollversion von "osmand+", aber
+nur über bei Installation über fdroid erhältlich.
 
-- In osmand~ GPX-Datei unter Menü "Meine Orte" importieren
+oder "osmand" (eingeschränkte Kartenauswahl, kostenfrei) installieren im
+Google Play Store
+https://play.google.com/store/apps/details?id=net.osmand&hl=de
+oder "osmand+" (Vollversion, kostenpflichtig) installieren im Google
+Play Store
+https://play.google.com/store/apps/details?id=net.osmand.plus&hl=de
 
-- evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen
+- osmand~ starten, Karten der Regionen herunterladen, die Dich
+  interessieren. Diese Karten stehen dann auch ohne Internetverbindung
+  zur Verfügung.
+
+- In osmand~ GPX-Datei unter Menü "Meine Orte" importieren.
+
+- evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
 ** App "organic maps"
 
-- f-droid starten, suchen nach App "organic maps", installieren
+- f-droid starten, suchen nach App "organic maps", installieren.
 
-- organic maps starten, Karten der Regionen lokal (offline)
-  herunterladen, die Dich interessieren
+oder installieren im Google Play Store
+https://play.google.com/store/apps/details?id=app.organicmaps&hl=de
 
-- In organic maps GPX-Datei unter Menü "Lesezeichen und Tracks" importieren
+- organic maps starten, Karten der Regionen herunterladen, die Dich
+  interessieren. Diese Karten stehen dann auch ohne Internetverbindung
+  zur Verfügung.
 
-- evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen
+- In organic maps GPX-Datei unter Menü "Lesezeichen und Tracks" importieren.
+
+- evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
