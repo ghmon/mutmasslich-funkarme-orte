@@ -8,7 +8,7 @@ Aktuellste Version _dieser_ Datei immer unter diesem [Link](https://github.com/g
 
 ## Intro
 
-Die {Karte "mutmasslich funkarmer
+Die [Karte "mutmasslich funkarmer
 Orte"](https://kurzlinks.de/funkarme-orte) hat sich als beliebt und
 nützlich erwiesen (Klartext: https://kurzlinks.de/funkarme-orte). Die
 Verwendung der Karte setzt aber eine Verbindung zum Internet
