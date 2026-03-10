@@ -82,3 +82,8 @@ f-droid starten, suchen nach App "organic maps", installieren.
 - GPX-Datei unter Menü "Lesezeichen und Tracks" importieren.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
+
+Sollte Dir diese Karte von Nutzen sein, freue ich mich über eine
+Spende. Kontakt sowie Kritik, Anregungen, Lob an
+
+<feedback-me+fakarte@posteo.net>
