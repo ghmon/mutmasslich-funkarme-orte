@@ -24,9 +24,8 @@ Die vorliegende Datei beschreibt die Installation und den Import der
 GPX-Datei für Smartphones oder Tablets unter Android. Es soll auch
 Windows und/Linuxprogramme geben, die sowohl Offline-Karten wie den
 Import von GPX-Dateien ermöglichen. Diese Variante habe ich nicht
-getestet. Zu derartigen Programmen unter Windows sollen zählen:
+getestet. Zu derartigen Programmen unter Windows soll zählen:
 
-* Die integrierte Windows Karten-App (kostenlos)
 * Das Programm "QMapShack" für Windows/Linux (kostenlos)
 
 Der unten angesprochene Download der Karten auf das Smartphone oder
