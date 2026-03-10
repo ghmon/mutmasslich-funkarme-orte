@@ -21,12 +21,10 @@ Daten in der Datei so heißt. GPX = "GPS Exchange Format". Die in der
 GPX-Datei enthaltenen Orte entsprechen den Orten in der Onlinekarte.
 
 Die vorliegende Datei beschreibt die Installation und den Import der
-GPX-Datei für Smartphones oder Tablets unter Android. Es soll auch
-Windows und/Linuxprogramme geben, die sowohl Offline-Karten wie den
-Import von GPX-Dateien ermöglichen. Diese Variante habe ich nicht
-getestet. Zu derartigen Programmen unter Windows soll zählen:
-
-* Das Programm "QMapShack" für Windows/Linux (kostenlos)
+GPX-Datei für Smartphones oder Tablets unter Android. Ich habe keine
+Windows und/Linuxprogramme gefunden, die sowohl einfachen Download von
+Offline-Karten wie den Import von GPX-Dateien ermöglichen. Hinweise
+auf solche Programme gerne an die Mailadresse am Ende dieser Datei!
 
 Der unten angesprochene Download der Karten auf das Smartphone oder
 Tablet erfordert auf dem Smartphone/Tabelet eine
