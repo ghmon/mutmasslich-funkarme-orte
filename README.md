@@ -19,6 +19,19 @@ OHNE INTERNETVERBINDUNG ERLAUBEN. Diese Datei wird im folgenden
 heißt. GPX = "GPS Exchange Format". Die in der GPX-Datei enthaltenen
 Orte entsprechen den Orten in der Onlinekarte.
 
+Der unten angesprochene Download der Karten auf das Smartphone oder
+Tablet erfordert eine Internetverbindung. Diese kann komplett funkfrei
+über ein USB-to-LAN Kabel über die (falls vorhandene) USB-Buchse am
+Gerät zu einem LAN-Kabel hergestellt werden, oder über ein USB-Kabel
+zwischen Gerät und an das Internet angeschlossen PC per Programm
+"gnirehtet" (https://github.com/Genymobile/gnirehtet). "gnirehtet" ist
+aber eher für "Experten".
+
+Die USB-to-LAN-Kabel sind recht günstig zu erwerben, 5-15
+€. Beschreibungen zur Anbindung per USB-to-LAN Kabel finden sich zum
+Beispiel bei Chip unter
+<https://kurzlinks.de/android-internet-per-lan>.
+
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
 die Android Apps "OsmAnd" oder "organic maps" beschrieben. Es reicht,
 sich für eines der Programme zu entscheiden. In beiden Programmen
