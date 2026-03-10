@@ -1,5 +1,4 @@
 
-Autor: Christoph Conrad
 Doku Stand 10.3.2026.
 Kartendaten Stand 25.1.2026.
 
