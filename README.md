@@ -2,18 +2,19 @@
 Doku Stand 10.3.2026.
 Kartendaten Stand 25.1.2026.
 
-Aktuellste Version _dieser_ Datei immer hier:
-https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md
+Aktuellste Version _dieser_ Datei immer unter diesem [Link](https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md).
 
 # "Mutmaßlich funkarme Orte" für unterwegs - ohne Internetverbindung
 
 ## Intro
 
-Die Karte "mutmasslich funkarmer Orte" hat sich als beliebt und
-nützlich erwiesen (https://kurzlinks.de/funkarme-orte). Die Verwendung
-der Karte setzt aber eine Verbindung zum Internet voraus. "Unterwegs"
-wäre das in der Regel eine Mobilfunkverbindung ("mobile Daten"), die
-von den Nutzern der Karte eher nicht erwünscht ist.
+Die {Karte "mutmasslich funkarmer
+Orte"](https://kurzlinks.de/funkarme-orte) hat sich als beliebt und
+nützlich erwiesen (Klartext: https://kurzlinks.de/funkarme-orte). Die
+Verwendung der Karte setzt aber eine Verbindung zum Internet
+voraus. "Unterwegs" wäre das in der Regel eine Mobilfunkverbindung
+("mobile Daten"), die von den Nutzern der Karte eher nicht erwünscht
+ist.
 
 Deshalb gibt es nun die "funkarmen Orte" in einer Datei zum Import in
 Programme auf Android-Apps oder Windows/Linuxprogramme, DIE DIE
@@ -36,14 +37,13 @@ Tablet erfordert auf dem Smartphone/Tabelet eine
 Internetverbindung. Diese kann komplett funkfrei über ein USB-to-LAN
 Kabel über die (falls vorhandene) USB-Buchse am Gerät zu einem
 LAN-Kabel hergestellt werden, oder über ein USB-Kabel zwischen Gerät
-und an das Internet angeschlossen PC per Programm "gnirehtet"
-(https://github.com/Genymobile/gnirehtet). "gnirehtet" ist aber eher
-für "Experten".
+und an das Internet angeschlossen PC per Programm ["gnirehtet"](https://github.com/Genymobile/gnirehtet). "gnirehtet" ist aber eher
+für "Experten"!
 
 Diese USB-to-LAN-Kabel sind günstig zu erwerben, 5-15 € (Stand März
 2026). Beschreibungen zur Anbindung per USB-to-LAN Kabel finden sich
-zum Beispiel bei Chip unter
-<https://kurzlinks.de/android-internet-per-lan>.
+zum Beispiel [bei der Zeitschrift
+"CHIP"](https://kurzlinks.de/android-internet-per-lan).
 
 ## Die Apps: "OsmAnd" oder "organic maps"
 
@@ -67,8 +67,7 @@ März 2026). "OsmAnd~" ist weitgehend funktional identisch zu
 "OsmAnd+", es fehlen einige hier unwichtige Funktionen wie "Android
 Auto" oder "OsmAnd Cloud".
 
-- Download der GPX-Datei mit den funkarmen Orten:
-  https://kurzlinks.de/fa-orte-gpx
+- [Download der GPX-Datei mit den funkarmen Orten](https://kurzlinks.de/fa-orte-gpx)
 
 ### App "OsmAnd~"
 
@@ -76,15 +75,13 @@ Auto" oder "OsmAnd Cloud".
 
 aus dem Google Play Store
 
-"OsmAnd" (eingeschränkte Kartenauswahl, kostenfrei)
-https://play.google.com/store/apps/details?id=net.osmand&hl=de
+["OsmAnd"](https://play.google.com/store/apps/details?id=net.osmand&hl=de) (eingeschränkte Kartenauswahl, kostenfrei)
 
-ODER "OsmAnd+" (Vollversion, kostenpflichtig)
-https://play.google.com/store/apps/details?id=net.osmand.plus&hl=de
+ODER ["OsmAnd+"](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=de) (Vollversion, kostenpflichtig)
 
 ODER mit fdroid
 
-f-droid installieren: https://f-droid.org/F-Droid.apk, dann f-droid
+[f-droid installieren](https://f-droid.org/F-Droid.apk), dann f-droid
 starten, suchen nach App "OsmAnd~", installieren.
 
 Bei der Installation von fdroid erscheint eine Warnung bezüglich der
@@ -102,12 +99,11 @@ Installationsquelle, diese Quelle sollte man zulassen.
 
 - Installieren
 
-aus dem Google Play Store
-https://play.google.com/store/apps/details?id=app.organicmaps&hl=de
+[aus dem Google Play Store](https://play.google.com/store/apps/details?id=app.organicmaps&hl=de)
 
 ODER per fdroid
 
-f-droid installieren: https://f-droid.org/F-Droid.apk, dann f-droid
+[f-droid installieren](https://f-droid.org/F-Droid.apk), dann f-droid
 starten, suchen nach App "organic maps", installieren.
 
 Bei der Installation von fdroid erscheint eine Warnung bezüglich der
