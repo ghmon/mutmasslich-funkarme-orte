@@ -14,29 +14,42 @@ wäre das in der Regel eine Mobilfunkverbindung ("mobile Daten"), die
 von den Nutzern der Karte eher nicht erwünscht ist.
 
 Deshalb gibt es nun die "funkarmen Orte" in einer Datei zum Import in
-Programme auf Android-Apps, DIE DIE VERWENDUNG VON LANDKARTEN AUCH
-OHNE INTERNETVERBINDUNG ERLAUBEN. Diese Datei wird im folgenden
-"GPX-Datei" genannt, da das Datenformat der Daten in der Datei so
-heißt. GPX = "GPS Exchange Format". Die in der GPX-Datei enthaltenen
-Orte entsprechen den Orten in der Onlinekarte.
+Programme auf Android-Apps oder Windows/Linuxprogramme, DIE DIE
+VERWENDUNG VON LANDKARTEN AUCH OHNE INTERNETVERBINDUNG ERLAUBEN. Diese
+Datei wird im folgenden "GPX-Datei" genannt, da das Datenformat der
+Daten in der Datei so heißt. GPX = "GPS Exchange Format". Die in der
+GPX-Datei enthaltenen Orte entsprechen den Orten in der Onlinekarte.
+
+Die vorliegende Datei beschreibt die Installation und den Import der
+GPX-Datei für Smartphones oder Tablets unter Android. Es soll auch
+Windows und/Linuxprogramme geben, die sowohl Offline-Karten wie den
+Import von GPX-Dateien ermöglichen. Diese Variante habe ich nicht
+getestet. Zu derartigen Programmen unter Windows sollen zählen:
+
+* Die integrierte Windows Karten-App (kostenlos)
+* Das Programm "QMapShack" für Windows/Linux (kostenlos)
 
 Der unten angesprochene Download der Karten auf das Smartphone oder
-Tablet erfordert eine Internetverbindung. Diese kann komplett funkfrei
-über ein USB-to-LAN Kabel über die (falls vorhandene) USB-Buchse am
-Gerät zu einem LAN-Kabel hergestellt werden, oder über ein USB-Kabel
-zwischen Gerät und an das Internet angeschlossen PC per Programm
-"gnirehtet" (https://github.com/Genymobile/gnirehtet). "gnirehtet" ist
-aber eher für "Experten".
+Tablet erfordert auf dem Smartphone/Tabelet eine
+Internetverbindung. Diese kann komplett funkfrei über ein USB-to-LAN
+Kabel über die (falls vorhandene) USB-Buchse am Gerät zu einem
+LAN-Kabel hergestellt werden, oder über ein USB-Kabel zwischen Gerät
+und an das Internet angeschlossen PC per Programm "gnirehtet"
+(https://github.com/Genymobile/gnirehtet). "gnirehtet" ist aber eher
+für "Experten".
 
-Die USB-to-LAN-Kabel sind recht günstig zu erwerben, 5-15 € Stand
-März 2026. Beschreibungen zur Anbindung per USB-to-LAN Kabel finden
-sich zum Beispiel bei Chip unter
+Diese USB-to-LAN-Kabel sind günstig zu erwerben, 5-15 € (Stand März
+2026). Beschreibungen zur Anbindung per USB-to-LAN Kabel finden sich
+zum Beispiel bei Chip unter
 <https://kurzlinks.de/android-internet-per-lan>.
 
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
 die Android Apps "OsmAnd" oder "organic maps" beschrieben. Es reicht,
 sich für eines der Programme zu entscheiden. In beiden Programmen
-werden die funkarmen Orte auf Landkarten dargestellt.
+werden die funkarmen Orte auf Landkarten dargestellt. Es gibt offenbar
+noch weitere Programme (auch unter "Mac OS"), die Offline-Karten
+unterstützen und evt. den Import von GPX-Dateien, dazu kann ich aber
+keine Aussagen machen.
 
 Von "organic maps" gibt es nur eine Programm-Variante, die bereits
 uneingeschränkten Kartendownload erlaubt. Diese kann über den Google
