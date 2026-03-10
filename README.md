@@ -1,4 +1,9 @@
 
+Christoph Conrad
+
+Aktuellste Version dieser Datei immer hier:
+https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md
+
 # "Mutmasslich funkarme Orte" ohne Internetverbindung
 
 Import einer GPX-Datei mit den Orten in die Android Apps "osmand" oder
