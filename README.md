@@ -11,12 +11,19 @@ Import einer GPX-Datei mit den Orten in die Android Apps "osmand" oder
 Landkarten dargestellt. Diese Karten können auch ohne
 Internetverbindung genutzt werden.
 
-"osmand~" ist die LEGALE kostenfreie Vollversion von "osmand+", aber
-nur durch Installation über fdroid erhältlich. "osmand+" bei
-Installation über den Google Play Store ebenfalls die Vollversion,
-aber kostenpflichtig (~70 €). "organic maps" kann sowohl über den
-Google Play Store wie auch fdroid installiert werden und ist immer
-eine Vollversion.
+Von "organic maps" gibt es nur eine Variante, die uneingeschränkten
+Kartendownload erlaubt. Diese kann über den Google Play Store oder
+fdroid heruntergeladen werden.
+
+Von "organic maps" gibt es nur eine Variante, die uneingeschränkten
+Kartendownload erlaubt. Diese kann über den Google Play Store oder
+fdroid heruntergeladen werden.
+
+Von "osmand" existieren drei Varianten: "osmand~" ist die LEGALE
+kostenfreie Vollversion von "osmand+", aber nur durch Installation
+über fdroid erhältlich. "osmand+" bei Installation über den Google
+Play Store ebenfalls die Vollversion, aber kostenpflichtig (~70
+€). "osmand~" ist funktional identisch zu "osmand+".
 
 - Download der GPX-Datei mit den funkarmen Orten:
   https://kurzlinks.de/fa-orte-gpx
