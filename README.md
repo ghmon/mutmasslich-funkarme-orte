@@ -62,7 +62,7 @@ Play Store oder fdroid heruntergeladen werden.
 Von "OsmAnd" existieren drei Varianten: "OsmAnd~" ist die LEGALE
 kostenfreie Vollversion von "OsmAnd+", aber nur durch Installation
 über fdroid erhältlich. "OsmAnd+" bei Installation über den Google
-Play Store ebenfalls die Vollversion, aber kostenpflichtig (~70 €,
+Play Store ebenfalls die Vollversion, aber kostenpflichtig (ca. 70 €,
 März 2026). "OsmAnd~" ist weitgehend funktional identisch zu
 "OsmAnd+", es fehlen einige hier unwichtige Funktionen wie "Android
 Auto" oder "OsmAnd Cloud".
