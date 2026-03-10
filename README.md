@@ -53,8 +53,11 @@ https://play.google.com/store/apps/details?id=net.osmand.plus&hl=de
 
 ODER mit fdroid
 
-f-droid installieren: https://f-droid.org/F-Droid.apk, f-droid
+f-droid installieren: https://f-droid.org/F-Droid.apk, dann f-droid
 starten, suchen nach App "OsmAnd~", installieren.
+
+Bei der Installation von fdroid erscheint eine Warnung bezüglich der
+Installationsquelle, diese Quelle sollte man zulassen.
 
 - OsmAnd~ (oder OsmAnd, OsmAnd+) starten, Karten der Regionen
   herunterladen, die Dich interessieren. Diese Karten stehen dann auch
@@ -73,9 +76,11 @@ https://play.google.com/store/apps/details?id=app.organicmaps&hl=de
 
 ODER per fdroid
 
-f-droid installieren: https://f-droid.org/F-Droid.apk
+f-droid installieren: https://f-droid.org/F-Droid.apk, dann f-droid
+starten, suchen nach App "organic maps", installieren.
 
-f-droid starten, suchen nach App "organic maps", installieren.
+Bei der Installation von fdroid erscheint eine Warnung bezüglich der
+Installationsquelle, diese Quelle sollte man zulassen.
 
 - organic maps starten, Karten der Regionen herunterladen, die Dich
   interessieren. Diese Karten stehen dann auch ohne Internetverbindung
