@@ -7,6 +7,8 @@ https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md
 
 # "Mutmaßlich funkarme Orte" für unterwegs - ohne Internetverbindung
 
+## Intro
+
 Die Karte "mutmasslich funkarmer Orte" hat sich als beliebt und
 nützlich erwiesen (https://kurzlinks.de/funkarme-orte). Die Verwendung
 der Karte setzt aber eine Verbindung zum Internet voraus. "Unterwegs"
@@ -22,9 +24,12 @@ GPX-Datei enthaltenen Orte entsprechen den Orten in der Onlinekarte.
 
 Die vorliegende Datei beschreibt die Installation und den Import der
 GPX-Datei für Smartphones oder Tablets unter Android. Ich habe keine
-Windows und/Linuxprogramme gefunden, die sowohl einfachen Download von
-Offline-Karten wie den Import von GPX-Dateien ermöglichen. Hinweise
-auf solche Programme gerne an die Mailadresse am Ende dieser Datei!
+Windows und/Linuxprogramme gefunden, die <ins>sowohl</ins> einfachen
+Download von Offline-Karten <ins>wie auch</ins> den Import von
+GPX-Dateien ermöglichen. Hinweise auf solche Programme gerne an die
+Mailadresse am Ende dieser Datei!
+
+## Internet per USB-to-LAN oder gnirehtet
 
 Der unten angesprochene Download der Karten auf das Smartphone oder
 Tablet erfordert auf dem Smartphone/Tabelet eine
@@ -39,6 +44,8 @@ Diese USB-to-LAN-Kabel sind günstig zu erwerben, 5-15 € (Stand März
 2026). Beschreibungen zur Anbindung per USB-to-LAN Kabel finden sich
 zum Beispiel bei Chip unter
 <https://kurzlinks.de/android-internet-per-lan>.
+
+## Die Apps: "OsmAnd" oder "organic maps"
 
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
 die Android Apps "OsmAnd" oder "organic maps" beschrieben. Es reicht,
@@ -63,7 +70,7 @@ Auto" oder "OsmAnd Cloud".
 - Download der GPX-Datei mit den funkarmen Orten:
   https://kurzlinks.de/fa-orte-gpx
 
-** App "OsmAnd~"
+### App "OsmAnd~"
 
 - Installieren
 
@@ -91,7 +98,7 @@ Installationsquelle, diese Quelle sollte man zulassen.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
-** App "organic maps"
+### App "organic maps"
 
 - Installieren
 
