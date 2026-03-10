@@ -15,12 +15,12 @@ von den Nutzern der Karte eher nicht erwünscht ist.
 Deshalb gibt es nun die "funkarmen Orte" in einer Datei zum Import in
 Programme auf Android-Apps, DIE DIE VERWENDUNG VON LANDKARTEN AUCH
 OHNE INTERNETVERBINDUNG ERLAUBEN. Diese Datei wird im folgenden
-"GPX-Datei" genannt, da das Datenformat so heisst. GPX = "GPS Exchange
-Format". Die in der GPX-Datei enthaltenen Orte entsprechen den Orten
-in der Onlinekarte.
+"GPX-Datei" genannt, da das Datenformat der Daten in der Datei so
+heißt. GPX = "GPS Exchange Format". Die in der GPX-Datei enthaltenen
+Orte entsprechen den Orten in der Onlinekarte.
 
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
-die Android Apps "osmand" oder "organic maps" beschrieben. Es reicht,
+die Android Apps "OsmAnd" oder "organic maps" beschrieben. Es reicht,
 sich für eines der Programme zu entscheiden. In beiden Programmen
 werden die funkarmen Orte auf Landkarten dargestellt.
 
@@ -28,35 +28,37 @@ Von "organic maps" gibt es nur eine Programm-Variante, die bereits
 uneingeschränkten Kartendownload erlaubt. Diese kann über den Google
 Play Store oder fdroid heruntergeladen werden.
 
-Von "osmand" existieren drei Varianten: "osmand~" ist die LEGALE
-kostenfreie Vollversion von "osmand+", aber nur durch Installation
-über fdroid erhältlich. "osmand+" bei Installation über den Google
+Von "OsmAnd" existieren drei Varianten: "OsmAnd~" ist die LEGALE
+kostenfreie Vollversion von "OsmAnd+", aber nur durch Installation
+über fdroid erhältlich. "OsmAnd+" bei Installation über den Google
 Play Store ebenfalls die Vollversion, aber kostenpflichtig (~70
-€). "osmand~" ist funktional identisch zu "osmand+".
+€). "OsmAnd~" ist weitgehend funktional identisch zu "OsmAnd+", es
+fehlen einige hier unwichtige Funktionen wie "Android Auto" oder
+"OsmAnd Cloud".
 
 - Download der GPX-Datei mit den funkarmen Orten:
   https://kurzlinks.de/fa-orte-gpx
 
-** App "osmand~"
+** App "OsmAnd~"
 
 - Installieren
 
 aus dem Google Play Store
 
-"osmand" (eingeschränkte Kartenauswahl, kostenfrei)
+"OsmAnd" (eingeschränkte Kartenauswahl, kostenfrei)
 https://play.google.com/store/apps/details?id=net.osmand&hl=de
 
-ODER "osmand+" (Vollversion, kostenpflichtig)
+ODER "OsmAnd+" (Vollversion, kostenpflichtig)
 https://play.google.com/store/apps/details?id=net.osmand.plus&hl=de
 
 ODER mit fdroid
 
 f-droid installieren: https://f-droid.org/F-Droid.apk, f-droid
-starten, suchen nach App "osmand~", installieren.
+starten, suchen nach App "OsmAnd~", installieren.
 
-- osmand~ (oder osmand, osmand+) starten, Karten der Regionen herunterladen, die Dich
-  interessieren. Diese Karten stehen dann auch ohne Internetverbindung
-  zur Verfügung.
+- OsmAnd~ (oder OsmAnd, OsmAnd+) starten, Karten der Regionen
+  herunterladen, die Dich interessieren. Diese Karten stehen dann auch
+  ohne Internetverbindung zur Verfügung.
 
 - GPX-Datei unter dem Menüpunkt "Meine Orte" importieren.
 
