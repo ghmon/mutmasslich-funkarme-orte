@@ -37,13 +37,15 @@ Tablet erfordert auf dem Smartphone/Tabelet eine
 Internetverbindung. Diese kann komplett funkfrei über ein USB-to-LAN
 Kabel über die (falls vorhandene) USB-Buchse am Gerät zu einem
 LAN-Kabel hergestellt werden, oder über ein USB-Kabel zwischen Gerät
-und an das Internet angeschlossen PC per Programm ["gnirehtet"](https://github.com/Genymobile/gnirehtet). "gnirehtet" ist aber eher
-für "Experten"!
+und an das Internet angeschlossen PC per Programm
+["gnirehtet"](https://github.com/Genymobile/gnirehtet).
 
-Diese USB-to-LAN-Kabel sind günstig zu erwerben, 5-15 € (Stand März
-2026). Beschreibungen zur Anbindung per USB-to-LAN Kabel finden sich
-zum Beispiel [bei der Zeitschrift
-"CHIP"](https://kurzlinks.de/android-internet-per-lan).
+Für USB-to-LAN müssen bestimmte Voraussetzungen erfüllt sein, Details
+zur Anbindung per USB-to-LAN Kabel finden sich zum Beispiel [in diesem
+Artikel](https://kurzlinks.de/android-internet-per-lan) der
+Zeitschrift "CHIP". USB-to-LAN-Kabel sind günstig zu erwerben, 5-15 €
+(Stand März 2026). "gnirehtet" ist eher für "Experten", dafür
+funktioniert es mit praktisch jedem Android-Handy oder Tablet.
 
 ## Die Apps: "OsmAnd" oder "organic maps"
 
@@ -91,7 +93,9 @@ Installationsquelle, diese Quelle sollte man zulassen.
   herunterladen, die Dich interessieren. Diese Karten stehen dann auch
   ohne Internetverbindung zur Verfügung.
 
-- GPX-Datei unter dem Menüpunkt "Meine Orte" importieren.
+- GPX-Datei unter dem Menüpunkt "Meine Orte" als "Favoriten"
+  importieren. Der Import kann auf älteren, schwächeren Smartphones
+  oder Tablets bis zu 15 sec dauern.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
@@ -113,7 +117,9 @@ Installationsquelle, diese Quelle sollte man zulassen.
   interessieren. Diese Karten stehen dann auch ohne Internetverbindung
   zur Verfügung.
 
-- GPX-Datei unter Menü "Lesezeichen und Tracks" importieren.
+- GPX-Datei unter Menüsymbol "Lesezeichen und Tracks" importieren. Der
+  Import kann auf älteren, schwächeren Smartphones oder Tablets bis zu
+  15 sec dauern.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
