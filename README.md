@@ -93,10 +93,10 @@ Spende. Kontakt sowie Kritik, Anregungen, Lob an
 
 [iOS](https://apps.apple.com/us/app/comaps/id6747180809)
 
-- App starten, Icon mit Stern, "Favoriten importieren"
+- App starten, Icon mit Stern klicken => "Favoriten importieren"
 
-- Eine Offline-Karte herunterzuladen wird angeboten, wenn man in einem
-  Gebiet nahe heranzoomt, mit dem Icon "+" oder dem Mausrad.
+- Download Offline-Karte wird angeboten, wenn man in einem Gebiet nahe
+  heranzoomt (Icon mit "+", oder dem Mausrad).
 
 ### App "Organic Maps"
 
