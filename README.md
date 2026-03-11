@@ -17,14 +17,14 @@ voraus. "Unterwegs" wäre das in der Regel eine Mobilfunkverbindung
 ist.
 
 Deshalb gibt es nun die "funkarmen Orte" in einer Datei zum Import in
-Programme auf Android-Apps oder Windows/Linuxprogramme, DIE DIE
+Programme auf Android/iOS-Apps oder Windows/Linuxprogramme, DIE DIE
 VERWENDUNG VON LANDKARTEN AUCH OHNE INTERNETVERBINDUNG ERLAUBEN. Diese
 Datei wird im folgenden "GPX-Datei" genannt, da das Datenformat der
 Daten in der Datei so heißt. GPX = "GPS Exchange Format". Die in der
 GPX-Datei enthaltenen Orte entsprechen den Orten in der Onlinekarte.
 
 Dieser Text beschreibt die Installation und den Import der GPX-Datei
-für Smartphones oder Tablets unter Android. Ich habe keine Windows
+für Smartphones oder Tablets unter Android/iOS. Ich habe keine Windows
 und/Linuxprogramme gefunden, die <ins>sowohl</ins> einfachen Download
 von Offline-Karten <ins>wie auch</ins> den Import von GPX-Dateien
 ermöglichen. Hinweise auf solche Programme gerne an die Mailadresse am
@@ -40,6 +40,8 @@ LAN-Kabel hergestellt werden, oder über ein USB-Kabel zwischen Gerät
 und an das Internet angeschlossen PC per Programm
 ["gnirehtet"](https://github.com/Genymobile/gnirehtet).
 
+Ob diese Anbindung auch mit iOS funktioniert, ist mir nicht bekannt.
+
 Für USB-to-LAN müssen bestimmte Voraussetzungen erfüllt sein, Details
 zur Anbindung per USB-to-LAN Kabel finden sich zum Beispiel [in diesem
 Artikel](https://kurzlinks.de/android-internet-per-lan) der
@@ -50,32 +52,84 @@ funktioniert es mit praktisch jedem Android-Handy oder Tablet.
 ## Die Apps: "OsmAnd" oder "Organic Maps"
 
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
-die Android Apps "OsmAnd" oder "Organic Maps" beschrieben. Es reicht,
-sich für eines der Programme zu entscheiden. In beiden Programmen
-werden die funkarmen Orte auf Landkarten dargestellt. Es gibt offenbar
-noch weitere Programme (auch unter "Mac OS"), die Offline-Karten
-unterstützen und evt. den Import von GPX-Dateien, dazu kann ich aber
-keine Aussagen machen.
+die Android (Google)/iOS (Apple) Apps "CoMaps", "OsmAnd" oder "Organic
+Maps" beschrieben. Es reicht, sich für eines der Programme zu
+entscheiden.
 
-Von "Organic Maps" gibt es nur eine Programm-Variante, die bereits
-uneingeschränkten Kartendownload erlaubt. Diese kann über den Google
-Play Store oder fdroid heruntergeladen werden.
+**Ich empfehle die Verwendung von "Organic Maps" oder "CoMaps", einen
+Ableger von "Organic Maps". Offline-Kartendownload ohne
+Einschränkungen (ausser verfügbarer Gerätespeicher). Beide sind in den
+offiziellen Stores von Google (Play Store) oder iOS (Apple)
+erhältlich.**
+
+In allen Programmen werden die funkarmen Orte auf Landkarten
+dargestellt. Es gibt offenbar noch weitere Programme (auch unter "Mac
+OS"), die Offline-Karten unterstützen und evt. den Import von
+GPX-Dateien, dazu kann ich aber keine Aussagen machen.
 
 Von "OsmAnd" existieren drei Varianten: "OsmAnd~" ist die LEGALE
-kostenfreie Vollversion von "OsmAnd+", aber nur durch Installation
-über fdroid erhältlich. "OsmAnd+" bei Installation über den Google
-Play Store ebenfalls die Vollversion, aber kostenpflichtig (ca. 70 €,
-März 2026). "OsmAnd~" ist weitgehend funktional identisch zu
-"OsmAnd+", es fehlen einige hier unwichtige Funktionen wie "Android
-Auto" oder "OsmAnd Cloud".
+kostenfreie (Fast)Vollversion von "OsmAnd+", aber nur durch
+Installation über fdroid erhältlich. "OsmAnd+" bei Installation über
+den Google Play Store ebenfalls die Vollversion, aber kostenpflichtig
+(ca. 70 €, März 2026). "OsmAnd~", nur über fdroid, weitgehend
+funktional identisch zu "OsmAnd+", es fehlen einige hier unwichtige
+Funktionen wie "Android Auto" oder "OsmAnd Cloud".
+
+Sollte Dir diese Karte von Nutzen sein, freue ich mich über eine
+Spende. Kontakt sowie Kritik, Anregungen, Lob an
+
+<feedback-me+fakarte@posteo.net>
+
 
 - [Download der GPX-Datei mit den funkarmen Orten](https://kurzlinks.de/fa-orte-gpx)
+
+
+### App "CoMaps", Ableger von "Organic Maps"
+
+- Installieren
+
+[Android, Google Play Store](https://play.google.com/store/apps/details?id=app.comaps.google)
+
+[iOS](https://apps.apple.com/us/app/comaps/id6747180809)
+
+- App starten, Icon mit Stern, "Favoriten importieren"
+
+- Eine Offline-Karte herunterzuladen wird angeboten, wenn man in einem
+  Gebiet nahe heranzoomt, mit dem Icon "+" oder dem Mausrad.
+
+### App "Organic Maps"
+
+- Installieren
+
+[Android, Google Play Store](https://play.google.com/store/apps/details?id=app.organicmaps&hl=de)
+
+ODER per fdroid
+
+[f-droid installieren](https://f-droid.org/F-Droid.apk), dann f-droid
+starten, suchen nach App "Organic Maps", installieren.
+
+Bei der Installation von fdroid erscheint eine Warnung bezüglich der
+Installationsquelle, diese Quelle sollte man zulassen.
+
+ODER für [iOS](https://apps.apple.com/app/organic-maps/id1567437057)
+
+- Organic Maps starten, Karten der Regionen herunterladen, die Dich
+  interessieren. Diese Karten stehen dann auch ohne Internetverbindung
+  zur Verfügung. Eine Offline-Karte herunterzuladen wird angeboten,
+  wenn man in einem Gebiet nahe heranzoomt, mit dem Icon "+" oder dem
+  Mausrad.
+
+- GPX-Datei unter Menüsymbol "Lesezeichen und Tracks" importieren. Der
+  Import kann auf älteren, schwächeren Smartphones oder Tablets bis zu
+  15 sec dauern.
+
+- evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
 ### App "OsmAnd~"
 
 - Installieren
 
-aus dem Google Play Store
+Android aus dem Google Play Store
 
 ["OsmAnd"](https://play.google.com/store/apps/details?id=net.osmand&hl=de) (eingeschränkte Kartenauswahl, kostenfrei)
 
@@ -89,41 +143,18 @@ starten, suchen nach App "OsmAnd~", installieren.
 Bei der Installation von fdroid erscheint eine Warnung bezüglich der
 Installationsquelle, diese Quelle sollte man zulassen.
 
+ODER [für iOS](https://apps.apple.com/us/app/osmand-maps-travel-navigate/id934850257)
+
+Dann:
+
 - OsmAnd~ (oder OsmAnd, OsmAnd+) starten, Karten der Regionen
   herunterladen, die Dich interessieren. Diese Karten stehen dann auch
-  ohne Internetverbindung zur Verfügung.
+  ohne Internetverbindung zur Verfügung. Eine Offline-Karte
+  herunterzuladen wird angeboten, wenn man in einem Gebiet nahe
+  heranzoomt.
 
 - GPX-Datei unter dem Menüpunkt "Meine Orte" als "Favoriten"
   importieren. Der Import kann auf älteren, schwächeren Smartphones
   oder Tablets bis zu 15 sec dauern.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
-
-### App "Organic Maps"
-
-- Installieren
-
-[aus dem Google Play Store](https://play.google.com/store/apps/details?id=app.organicmaps&hl=de)
-
-ODER per fdroid
-
-[f-droid installieren](https://f-droid.org/F-Droid.apk), dann f-droid
-starten, suchen nach App "Organic Maps", installieren.
-
-Bei der Installation von fdroid erscheint eine Warnung bezüglich der
-Installationsquelle, diese Quelle sollte man zulassen.
-
-- Organic Maps starten, Karten der Regionen herunterladen, die Dich
-  interessieren. Diese Karten stehen dann auch ohne Internetverbindung
-  zur Verfügung.
-
-- GPX-Datei unter Menüsymbol "Lesezeichen und Tracks" importieren. Der
-  Import kann auf älteren, schwächeren Smartphones oder Tablets bis zu
-  15 sec dauern.
-
-- evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
-
-Sollte Dir diese Karte von Nutzen sein, freue ich mich über eine
-Spende. Kontakt sowie Kritik, Anregungen, Lob an
-
-<feedback-me+fakarte@posteo.net>
