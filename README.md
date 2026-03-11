@@ -49,18 +49,18 @@ Zeitschrift "CHIP". USB-to-LAN-Kabel sind günstig zu erwerben, 5-15 €
 (Stand März 2026). "gnirehtet" ist eher für "Experten", dafür
 funktioniert es mit praktisch jedem Android-Handy oder Tablet.
 
-## Die Apps: "OsmAnd" oder "Organic Maps"
+## Die Apps: "CoMaps", "Organic Maps", oder "OsmAnd"
 
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
-die Android (Google)/iOS (Apple) Apps "CoMaps", "OsmAnd" oder "Organic
-Maps" beschrieben. Es reicht, sich für eines der Programme zu
+die Android (Google)/iOS (Apple) Apps "CoMaps", "Organic Maps", oder
+"OsmAnd" beschrieben. Es reicht, sich für eines der Programme zu
 entscheiden.
 
-**Ich empfehle die Verwendung von "Organic Maps" oder "CoMaps", einen
-Ableger von "Organic Maps". Offline-Kartendownload ohne
-Einschränkungen (ausser verfügbarer Gerätespeicher). Beide sind in den
-offiziellen Stores von Google (Play Store) oder iOS (Apple)
-erhältlich.**
+**==> Ich empfehle die Verwendung von "CoMaps" oder "Organic Maps".
+"CoMaps" ist ein Ableger von "Organic Maps". Offline-Kartendownload
+ohne Einschränkungen (ausser verfügbarer Gerätespeicher). Beide sind
+in den offiziellen Stores von Google (Play Store) oder iOS (Apple)
+erhältlich. <==**
 
 In allen Programmen werden die funkarmen Orte auf Landkarten
 dargestellt. Es gibt offenbar noch weitere Programme (auch unter "Mac
