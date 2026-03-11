@@ -6,6 +6,8 @@ Aktuellste Version _dieser_ Datei immer unter diesem [Link](https://github.com/g
 
 # "Mutmaßlich funkarme Orte" für unterwegs - ohne Internetverbindung
 
+=> "Schnellanleitung" für Ungeduldige :-) ganz am Ende der Datei!
+
 ## Intro
 
 Die [Karte "mutmasslich funkarmer
@@ -159,3 +161,25 @@ Dann:
   oder Tablets bis zu 15 sec dauern.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
+
+## Schnellanleitung
+
+Verbindung Smartphone/Tablet funkfrei per USB-to-LAN oder gnirehtet.
+
+- App "CoMaps" oder "Organic Maps" installieren - eine von
+  beiden. Jeweils aus dem offiziellen Store von Google (Play Store für
+  Android) oder Apple (iOS).
+
+- Datei mit den Orten runterladen aufs Smartphone,
+  <https://kurzlinks.de/fa-orte-gpx>
+
+- Starten App, Icon mit Stern oder Sternen drauf, "Favoriten
+  importieren" oder "Lesezeichen" oder ähnlich, Datei
+  importieren. Import kann auf langsamen Smartphones/Tablets 15-20 sec
+  dauern.
+
+- Kartendownload offline wird automatisch angeboten, wenn man in eine
+  Region weiter reinzoomt. Also in alle Regionen reinzoomen, die einen
+  für unterwegs interessieren.
+
+Fertig.
