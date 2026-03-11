@@ -6,7 +6,8 @@ Aktuellste Version _dieser_ Datei immer unter diesem [Link](https://github.com/g
 
 # "Mutmaßlich funkarme Orte" für unterwegs - ohne Internetverbindung
 
-=> "Schnellanleitung" für Ungeduldige :-) ganz am Ende der Datei!
+=> "Schnellanleitung" für Ungeduldige :-) am Ende der Datei - Suche
+nach dem Wort "Schnellanleitung"!
 
 ## Intro
 
@@ -164,7 +165,8 @@ Dann:
 
 ## Schnellanleitung
 
-Verbindung Smartphone/Tablet funkfrei per USB-to-LAN oder gnirehtet.
+Verbindung Smartphone/Tablet funkfrei per USB-to-LAN Kabel oder
+gnirehtet.
 
 - App "CoMaps" oder "Organic Maps" installieren - eine von
   beiden. Jeweils aus dem offiziellen Store von Google (Play Store für
