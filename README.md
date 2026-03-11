@@ -23,12 +23,12 @@ Datei wird im folgenden "GPX-Datei" genannt, da das Datenformat der
 Daten in der Datei so heißt. GPX = "GPS Exchange Format". Die in der
 GPX-Datei enthaltenen Orte entsprechen den Orten in der Onlinekarte.
 
-Die vorliegende Datei beschreibt die Installation und den Import der
-GPX-Datei für Smartphones oder Tablets unter Android. Ich habe keine
-Windows und/Linuxprogramme gefunden, die <ins>sowohl</ins> einfachen
-Download von Offline-Karten <ins>wie auch</ins> den Import von
-GPX-Dateien ermöglichen. Hinweise auf solche Programme gerne an die
-Mailadresse am Ende dieser Datei!
+Dieser Text beschreibt die Installation und den Import der GPX-Datei
+für Smartphones oder Tablets unter Android. Ich habe keine Windows
+und/Linuxprogramme gefunden, die <ins>sowohl</ins> einfachen Download
+von Offline-Karten <ins>wie auch</ins> den Import von GPX-Dateien
+ermöglichen. Hinweise auf solche Programme gerne an die Mailadresse am
+Ende dieser Datei!
 
 ## Internet per USB-to-LAN oder gnirehtet
 
@@ -47,17 +47,17 @@ Zeitschrift "CHIP". USB-to-LAN-Kabel sind günstig zu erwerben, 5-15 €
 (Stand März 2026). "gnirehtet" ist eher für "Experten", dafür
 funktioniert es mit praktisch jedem Android-Handy oder Tablet.
 
-## Die Apps: "OsmAnd" oder "organic maps"
+## Die Apps: "OsmAnd" oder "Organic Maps"
 
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
-die Android Apps "OsmAnd" oder "organic maps" beschrieben. Es reicht,
+die Android Apps "OsmAnd" oder "Organic Maps" beschrieben. Es reicht,
 sich für eines der Programme zu entscheiden. In beiden Programmen
 werden die funkarmen Orte auf Landkarten dargestellt. Es gibt offenbar
 noch weitere Programme (auch unter "Mac OS"), die Offline-Karten
 unterstützen und evt. den Import von GPX-Dateien, dazu kann ich aber
 keine Aussagen machen.
 
-Von "organic maps" gibt es nur eine Programm-Variante, die bereits
+Von "Organic Maps" gibt es nur eine Programm-Variante, die bereits
 uneingeschränkten Kartendownload erlaubt. Diese kann über den Google
 Play Store oder fdroid heruntergeladen werden.
 
@@ -99,7 +99,7 @@ Installationsquelle, diese Quelle sollte man zulassen.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
-### App "organic maps"
+### App "Organic Maps"
 
 - Installieren
 
@@ -108,12 +108,12 @@ Installationsquelle, diese Quelle sollte man zulassen.
 ODER per fdroid
 
 [f-droid installieren](https://f-droid.org/F-Droid.apk), dann f-droid
-starten, suchen nach App "organic maps", installieren.
+starten, suchen nach App "Organic Maps", installieren.
 
 Bei der Installation von fdroid erscheint eine Warnung bezüglich der
 Installationsquelle, diese Quelle sollte man zulassen.
 
-- organic maps starten, Karten der Regionen herunterladen, die Dich
+- Organic Maps starten, Karten der Regionen herunterladen, die Dich
   interessieren. Diese Karten stehen dann auch ohne Internetverbindung
   zur Verfügung.
 
