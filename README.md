@@ -54,7 +54,8 @@ funktioniert es mit praktisch jedem Android-Handy oder Tablet.
 Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
 die Android (Google)/iOS (Apple) Apps "CoMaps", "Organic Maps", oder
 "OsmAnd" beschrieben. Es reicht, sich für eines der Programme zu
-entscheiden.
+entscheiden. Routing ("Navi") bieten alle Programme, am
+leistungsfähigsten soll das Routing von osmand sein (ungetestet).
 
 **==> Ich empfehle die Verwendung von "CoMaps" oder "Organic Maps".
 "CoMaps" ist ein Ableger von "Organic Maps". Offline-Kartendownload
