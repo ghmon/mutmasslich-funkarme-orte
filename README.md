@@ -165,14 +165,14 @@ Dann:
 
 ## Schnellanleitung
 
-Verbindung Smartphone/Tablet funkfrei per USB-to-LAN Kabel oder
-gnirehtet.
+Verbindung Smartphone/Tablet funkfrei ins Internet: per USB-to-LAN
+Kabel oder gnirehtet.
 
 - App "CoMaps" oder "Organic Maps" installieren - eine von
   beiden. Jeweils aus dem offiziellen Store von Google (Play Store für
   Android) oder Apple (iOS).
 
-- Datei mit den Orten runterladen aufs Smartphone,
+- Datei mit den Orten auf das Smartphone/Tablet runterladen:
   <https://kurzlinks.de/fa-orte-gpx>
 
 - Starten App, Icon mit Stern oder Sternen drauf, "Favoriten
