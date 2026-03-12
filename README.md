@@ -60,11 +60,11 @@ die Android (Google)/iOS (Apple) Apps "CoMaps", "Organic Maps", oder
 entscheiden. Routing ("Navi") bieten alle Programme, am
 leistungsfähigsten soll das Routing von osmand sein (ungetestet).
 
-**==> Ich empfehle die Verwendung von "CoMaps" oder "Organic Maps".
-"CoMaps" ist ein Ableger von "Organic Maps". Offline-Kartendownload
-ohne Einschränkungen (ausser verfügbarer Gerätespeicher). Beide sind
-in den offiziellen Stores von Google (Play Store) oder iOS (Apple)
-erhältlich. <==**
+**==> Ich empfehle die Verwendung von "CoMaps" (sehr gut!) oder
+"Organic Maps".  "CoMaps" ist ein Ableger von "Organic
+Maps". Offline-Kartendownload ohne Einschränkungen (ausser verfügbarer
+Gerätespeicher). Beide sind in den offiziellen Stores von Google (Play
+Store) oder iOS (Apple) erhältlich. <==**
 
 In allen Programmen werden die funkarmen Orte auf Landkarten
 dargestellt. Es gibt offenbar noch weitere Programme (auch unter "Mac
@@ -99,7 +99,11 @@ Spende. Kontakt sowie Kritik, Anregungen, Lob an
 - App starten, Icon mit Stern klicken => "Favoriten importieren"
 
 - Download Offline-Karte wird angeboten, wenn man in einem Gebiet nahe
-  heranzoomt (Icon mit "+", oder dem Mausrad).
+  heranzoomt (Icon mit "+", oder dem Mausrad). Alternativ Menüicon
+  anklicken (das Icon mit den drei Strichen übereinander), dann
+  "Karten herunterladen", dann rechts Icon mit "+" anklicken, dann
+  "Deutschland", nun einzelne Bundesländer oder "alle herunter laden"
+  für alle Bundesländer auf einmal.
 
 ### App "Organic Maps"
 
@@ -168,7 +172,7 @@ Dann:
 Verbindung Smartphone/Tablet funkfrei ins Internet: per USB-to-LAN
 Kabel oder gnirehtet.
 
-- App "CoMaps" oder "Organic Maps" installieren - eine von
+- App "CoMaps" (empfohlen) oder "Organic Maps" installieren - eine von
   beiden. Jeweils aus dem offiziellen Store von Google (Play Store für
   Android) oder Apple (iOS).
 
