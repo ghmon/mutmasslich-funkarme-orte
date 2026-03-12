@@ -11,7 +11,7 @@ nach dem Wort "Schnellanleitung"!
 
 ## Intro
 
-Die [Karte "mutmasslich funkarmer
+Die [Karte "mutmaßlich funkarmer
 Orte"](https://kurzlinks.de/funkarme-orte) hat sich als beliebt und
 nützlich erwiesen (Klartext: https://kurzlinks.de/funkarme-orte). Die
 Verwendung der Karte setzt aber eine Verbindung zum Internet
@@ -36,7 +36,7 @@ Ende dieser Datei!
 ## Internet per USB-to-LAN oder gnirehtet
 
 Der unten angesprochene Download der Karten auf das Smartphone oder
-Tablet erfordert auf dem Smartphone/Tabelet eine
+Tablet erfordert auf dem Smartphone/Tablet eine
 Internetverbindung. Diese kann komplett funkfrei über ein USB-to-LAN
 Kabel über die (falls vorhandene) USB-Buchse am Gerät zu einem
 LAN-Kabel hergestellt werden, oder über ein USB-Kabel zwischen Gerät
@@ -58,11 +58,11 @@ Im folgenden wird der Import der GPX-Datei mit den funkarmen Orten in
 die Android (Google)/iOS (Apple) Apps "CoMaps", "Organic Maps", oder
 "OsmAnd" beschrieben. Es reicht, sich für eines der Programme zu
 entscheiden. Routing ("Navi") bieten alle Programme, am
-leistungsfähigsten soll das Routing von osmand sein (ungetestet).
+leistungsfähigsten soll das Routing von OsmAnd sein (ungetestet).
 
 **==> Ich empfehle die Verwendung von "CoMaps" (sehr gut!) oder
 "Organic Maps".  "CoMaps" ist ein Ableger von "Organic
-Maps". Offline-Kartendownload ohne Einschränkungen (ausser verfügbarer
+Maps". Offline-Kartendownload ohne Einschränkungen (außer verfügbarer
 Gerätespeicher). Beide sind in den offiziellen Stores von Google (Play
 Store) oder iOS (Apple) erhältlich. <==**
 
@@ -73,9 +73,9 @@ GPX-Dateien, dazu kann ich aber keine Aussagen machen.
 
 Von "OsmAnd" existieren drei Varianten: "OsmAnd~" ist die LEGALE
 kostenfreie (Fast)Vollversion von "OsmAnd+", aber nur durch
-Installation über fdroid erhältlich. "OsmAnd+" bei Installation über
+Installation über f-droid erhältlich. "OsmAnd+" bei Installation über
 den Google Play Store ebenfalls die Vollversion, aber kostenpflichtig
-(ca. 70 €, März 2026). "OsmAnd~", nur über fdroid, weitgehend
+(ca. 70 €, März 2026). "OsmAnd~", nur über f-droid, weitgehend
 funktional identisch zu "OsmAnd+", es fehlen einige hier unwichtige
 Funktionen wie "Android Auto" oder "OsmAnd Cloud".
 
@@ -88,7 +88,7 @@ Spende. Kontakt sowie Kritik, Anregungen, Lob an
 - [Download der GPX-Datei mit den funkarmen Orten](https://kurzlinks.de/fa-orte-gpx)
 
 
-### App "CoMaps", Ableger von "Organic Maps"
+### App "CoMaps" (Ableger von "Organic Maps")
 
 - Installieren
 
@@ -102,7 +102,7 @@ Spende. Kontakt sowie Kritik, Anregungen, Lob an
   heranzoomt (Icon mit "+", oder dem Mausrad). Alternativ Menüicon
   anklicken (das Icon mit den drei Strichen übereinander), dann
   "Karten herunterladen", dann rechts Icon mit "+" anklicken, dann
-  "Deutschland", nun einzelne Bundesländer oder "alle herunter laden"
+  "Deutschland", nun einzelne Bundesländer oder "alle herunterladen"
   für alle Bundesländer auf einmal.
 
 ### App "Organic Maps"
@@ -111,12 +111,12 @@ Spende. Kontakt sowie Kritik, Anregungen, Lob an
 
 [Android, Google Play Store](https://play.google.com/store/apps/details?id=app.organicmaps&hl=de)
 
-ODER per fdroid
+ODER per f-droid
 
 [f-droid installieren](https://f-droid.org/F-Droid.apk), dann f-droid
 starten, suchen nach App "Organic Maps", installieren.
 
-Bei der Installation von fdroid erscheint eine Warnung bezüglich der
+Bei der Installation von f-droid erscheint eine Warnung bezüglich der
 Installationsquelle, diese Quelle sollte man zulassen.
 
 ODER für [iOS](https://apps.apple.com/app/organic-maps/id1567437057)
@@ -124,11 +124,11 @@ ODER für [iOS](https://apps.apple.com/app/organic-maps/id1567437057)
 - Organic Maps starten, Karten der Regionen herunterladen, die Dich
   interessieren. Diese Karten stehen dann auch ohne Internetverbindung
   zur Verfügung. Eine Offline-Karte herunterzuladen wird angeboten,
-  wenn man in einem Gebiet nahe heranzoomt (Reinzoomen mit dem Icon
+  wenn man in einem Gebiet nahe heranzoomt (Rein zoomen mit dem Icon
   "+" oder dem Mausrad). Alternativ Menüicon anklicken (das Icon mit
   den drei Strichen übereinander), dann "Karten herunterladen", dann
   rechts Icon mit "+" anklicken, dann "Deutschland", nun einzelne
-  Bundesländer oder "alle herunter laden" für alle Bundesländer auf
+  Bundesländer oder "alle herunterladen" für alle Bundesländer auf
   einmal.
 
 - GPX-Datei unter Menüsymbol "Lesezeichen und Tracks" importieren. Der
@@ -147,12 +147,12 @@ Android aus dem Google Play Store
 
 ODER ["OsmAnd+"](https://play.google.com/store/apps/details?id=net.osmand.plus&hl=de) (Vollversion, kostenpflichtig)
 
-ODER mit fdroid
+ODER mit f-droid
 
 [f-droid installieren](https://f-droid.org/F-Droid.apk), dann f-droid
 starten, suchen nach App "OsmAnd~", installieren.
 
-Bei der Installation von fdroid erscheint eine Warnung bezüglich der
+Bei der Installation von f-droid erscheint eine Warnung bezüglich der
 Installationsquelle, diese Quelle sollte man zulassen.
 
 ODER [für iOS](https://apps.apple.com/us/app/osmand-maps-travel-navigate/id934850257)
@@ -164,8 +164,8 @@ Dann:
   ohne Internetverbindung zur Verfügung. Eine Offline-Karte
   herunterzuladen wird angeboten, wenn man in einem Gebiet nahe
   heranzoomt. Alternativ Menüicon anklicken (das Icon mit den drei
-  Strichen übereinander), dann "Karten und Resourcen"", dort Karten
-  herunter laden.
+  Strichen übereinander), dann "Karten und Ressourcen"", dort Karten
+  herunterladen.
 
 - GPX-Datei unter dem Menüpunkt "Meine Orte" als "Favoriten"
   importieren. Der Import kann auf älteren, schwächeren Smartphones
@@ -182,7 +182,7 @@ Kabel oder gnirehtet.
   beiden. Jeweils aus dem offiziellen Store von Google (Play Store für
   Android) oder Apple (iOS).
 
-- Datei mit den Orten auf das Smartphone/Tablet runterladen:
+- Datei mit den Orten auf das Smartphone/Tablet herunterladen:
   <https://kurzlinks.de/fa-orte-gpx>
 
 - Starten App, Icon mit Stern oder Sternen drauf, "Favoriten
@@ -191,7 +191,11 @@ Kabel oder gnirehtet.
   dauern.
 
 - Kartendownload offline wird automatisch angeboten, wenn man in eine
-  Region weiter reinzoomt. Also in alle Regionen reinzoomen, die einen
-  für unterwegs interessieren.
+  Region weiter rein zoomt. Also in alle Regionen rein zoomen, die
+  einen für unterwegs interessieren. Alternativ Menüicon anklicken
+  (das Icon mit den drei Strichen übereinander), dann "Karten
+  herunterladen", dann rechts Icon mit "+" anklicken, dann
+  "Deutschland", nun einzelne Bundesländer oder "alle herunterladen"
+  für alle Bundesländer auf einmal.
 
 Fertig.
