@@ -124,8 +124,12 @@ ODER für [iOS](https://apps.apple.com/app/organic-maps/id1567437057)
 - Organic Maps starten, Karten der Regionen herunterladen, die Dich
   interessieren. Diese Karten stehen dann auch ohne Internetverbindung
   zur Verfügung. Eine Offline-Karte herunterzuladen wird angeboten,
-  wenn man in einem Gebiet nahe heranzoomt, mit dem Icon "+" oder dem
-  Mausrad.
+  wenn man in einem Gebiet nahe heranzoomt (Reinzoomen mit dem Icon
+  "+" oder dem Mausrad). Alternativ Menüicon anklicken (das Icon mit
+  den drei Strichen übereinander), dann "Karten herunterladen", dann
+  rechts Icon mit "+" anklicken, dann "Deutschland", nun einzelne
+  Bundesländer oder "alle herunter laden" für alle Bundesländer auf
+  einmal.
 
 - GPX-Datei unter Menüsymbol "Lesezeichen und Tracks" importieren. Der
   Import kann auf älteren, schwächeren Smartphones oder Tablets bis zu
@@ -159,7 +163,9 @@ Dann:
   herunterladen, die Dich interessieren. Diese Karten stehen dann auch
   ohne Internetverbindung zur Verfügung. Eine Offline-Karte
   herunterzuladen wird angeboten, wenn man in einem Gebiet nahe
-  heranzoomt.
+  heranzoomt. Alternativ Menüicon anklicken (das Icon mit den drei
+  Strichen übereinander), dann "Karten und Resourcen"", dort Karten
+  herunter laden.
 
 - GPX-Datei unter dem Menüpunkt "Meine Orte" als "Favoriten"
   importieren. Der Import kann auf älteren, schwächeren Smartphones
