@@ -26,12 +26,19 @@ Datei wird im folgenden "GPX-Datei" genannt, da das Datenformat der
 Daten in der Datei so heißt. GPX = "GPS Exchange Format". Die in der
 GPX-Datei enthaltenen Orte entsprechen den Orten in der Onlinekarte.
 
+Tipp: Viele gängige GPS-Navigationsgeräte (Garmin, TomTom etc.)
+unterstützen den Import von GPX-Tracks, insbesondere für Outdoor-,
+Motorrad- und Fahrradnutzung. Hierzu bitte die Anleitung zu ihrem Navi
+lesen.
+
 Dieser Text beschreibt die Installation und den Import der GPX-Datei
-für Smartphones oder Tablets unter Android/iOS. Ich habe keine Windows
-und/Linuxprogramme gefunden, die <ins>sowohl</ins> einfachen Download
-von Offline-Karten <ins>wie auch</ins> den Import von GPX-Dateien
-ermöglichen. Hinweise auf solche Programme gerne an die Mailadresse am
-Ende dieser Datei!
+für Smartphones oder Tablets unter Android/iOS. Alle vorgeschlagenen
+Apps unterstützen auch Routing (Fahrstrecke berechnen von Ort A nach
+Ort B), können also auch als "Navi" verwendet werden. Ich habe keine
+Windows und/Linuxprogramme gefunden, die <ins>sowohl</ins> einfachen
+Download von Offline-Karten <ins>wie auch</ins> den Import von
+GPX-Dateien ermöglichen. Hinweise auf solche Programme gerne an die
+Mailadresse am Ende dieser Datei!
 
 ## Internet per USB-to-LAN oder gnirehtet
 
@@ -67,9 +74,9 @@ Gerätespeicher). Beide sind in den offiziellen Stores von Google (Play
 Store) oder iOS (Apple) erhältlich. <==**
 
 In allen Programmen werden die funkarmen Orte auf Landkarten
-dargestellt. Es gibt offenbar noch weitere Programme (auch unter "Mac
-OS"), die Offline-Karten unterstützen und evt. den Import von
-GPX-Dateien, dazu kann ich aber keine Aussagen machen.
+dargestellt. Es gibt offenbar noch weitere Programme (auch unter
+Apples "macOS"), die Offline-Karten unterstützen und evt. den Import
+von GPX-Dateien, dazu kann ich aber keine Aussagen machen.
 
 Von "OsmAnd" existieren drei Varianten: "OsmAnd~" ist die LEGALE
 kostenfreie (Fast)Vollversion von "OsmAnd+", aber nur durch
