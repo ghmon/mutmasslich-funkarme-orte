@@ -1,5 +1,5 @@
 
-Doku Stand 11.3.2026.
+Doku Stand 25.3.2026.
 Kartendaten Stand 25.1.2026.
 
 Aktuellste Version _dieser_ Datei immer unter diesem [Link](https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md).
@@ -93,6 +93,8 @@ Spende. Kontakt sowie Kritik, Anregungen, Lob an
 
 
 - [Download der GPX-Datei mit den funkarmen Orten](https://kurzlinks.de/fa-orte-gpx)
+
+Der Download muss auf dem Smartphone durchgeführt werden.
 
 
 ### App "CoMaps" (Ableger von "Organic Maps")
@@ -193,7 +195,7 @@ Kabel oder gnirehtet.
   <https://kurzlinks.de/fa-orte-gpx>
 
 - Starten App, Icon mit Stern oder Sternen drauf, "Favoriten
-  importieren" oder "Lesezeichen" oder ähnlich, Datei
+  importieren" oder "Lesezeichen" oder ähnlich, GPX-Datei
   importieren. Import kann auf langsamen Smartphones/Tablets 15-20 sec
   dauern.
 
