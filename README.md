@@ -1,6 +1,6 @@
 
 Doku Stand 25.3.2026.
-Kartendaten Stand 25.1.2026.
+Kartendaten Stand 23.3.2026.
 
 Aktuellste Version _dieser_ Datei immer unter diesem [Link](https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/README.md).
 
