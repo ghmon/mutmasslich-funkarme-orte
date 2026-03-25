@@ -92,9 +92,12 @@ Spende. Kontakt sowie Kritik, Anregungen, Lob an
 <feedback-me+fakarte@posteo.net>
 
 
-- [Download der GPX-Datei mit den funkarmen Orten](https://kurzlinks.de/fa-orte-gpx)
+- [Download der GPX-Datei mit den funkarmen Orten](https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/germany_grid-filtered.gpx)
 
-Der Download muss auf dem Smartphone durchgeführt werden.
+Der Download muss auf dem Smartphone durchgeführt werden. Auf der sich
+öffnenden Webseite neben dem mit "Raw" beschrifteten Button ein Button
+mit einem Symbol "Pfeil nach unten" ("Download raw file").  Datei auf
+dem Smartphone sichern.
 
 
 ### App "CoMaps" (Ableger von "Organic Maps")
@@ -191,8 +194,14 @@ Kabel oder gnirehtet.
   beiden. Jeweils aus dem offiziellen Store von Google (Play Store für
   Android) oder Apple (iOS).
 
-- Datei mit den Orten auf das Smartphone/Tablet herunterladen:
-  <https://kurzlinks.de/fa-orte-gpx>
+- Datei mit den Orten auf das Smartphone/Tablet herunterladen.
+
+- [Download der GPX-Datei mit den funkarmen Orten](https://github.com/ghmon/mutmasslich-funkarme-orte/blob/main/germany_grid-filtered.gpx)
+
+Der Download muss auf dem Smartphone durchgeführt werden. Auf der sich
+öffnenden Webseite neben dem mit "Raw" beschrifteten Button ein Button
+mit einem Symbol "Pfeil nach unten" ("Download raw file"). Datei auf
+dem Smartphone sichern.
 
 - Starten App, Icon mit Stern oder Sternen drauf, "Favoriten
   importieren" oder "Lesezeichen" oder ähnlich, GPX-Datei
