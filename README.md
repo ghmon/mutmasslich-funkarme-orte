@@ -96,9 +96,14 @@ Spende. Kontakt sowie Kritik, Anregungen, Lob an
 
 Der Download muss auf dem Smartphone durchgeführt werden. Auf der sich
 öffnenden Webseite neben dem mit "Raw" beschrifteten Button ein Button
-mit einem Symbol "Pfeil nach unten" ("Download raw file").  Datei auf
-dem Smartphone sichern.
+mit einem Symbol "Pfeil nach unten" ("Download raw file"). Datei wird
+auf dem Smartphone gesichert, meist im Ordner "Download".
 
+!!! Unter Umständen hängt dein Browser (mindestens macht Firefox das)
+an den Dateinamen "germany_grid-filtered.gpx" ein ".txt" an, der
+Dateiname lautet dann "germany_grid-filtered.gpx.txt". Dann bitte erst
+die Datei wieder umbenennen in "germany_grid-filtered.gpx". Das geht
+mit Android eigenen Mitteln wie der App "Dateien" oder ähnlich.
 
 ### App "CoMaps" (Ableger von "Organic Maps")
 
@@ -143,9 +148,9 @@ ODER für [iOS](https://apps.apple.com/app/organic-maps/id1567437057)
   Bundesländer oder "alle herunterladen" für alle Bundesländer auf
   einmal.
 
-- GPX-Datei unter Menüsymbol "Lesezeichen und Tracks" importieren. Der
-  Import kann auf älteren, schwächeren Smartphones oder Tablets bis zu
-  15 sec dauern.
+- GPX-Datei "germany_grid-filtered.gpx" unter Menüsymbol "Lesezeichen
+  und Tracks" importieren. Der Import kann auf älteren, schwächeren
+  Smartphones oder Tablets bis zu 15 sec dauern.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
@@ -179,9 +184,9 @@ Dann:
   Strichen übereinander), dann "Karten und Ressourcen"", dort Karten
   herunterladen.
 
-- GPX-Datei unter dem Menüpunkt "Meine Orte" als "Favoriten"
-  importieren. Der Import kann auf älteren, schwächeren Smartphones
-  oder Tablets bis zu 15 sec dauern.
+- GPX-Datei "germany_grid-filtered.gpx" unter dem Menüpunkt "Meine
+  Orte" als "Favoriten" importieren. Der Import kann auf älteren,
+  schwächeren Smartphones oder Tablets bis zu 15 sec dauern.
 
 - evt. Symbolfarbe und Symbol der Pins dieser Ebene anpassen.
 
@@ -200,13 +205,19 @@ Kabel oder gnirehtet.
 
 Der Download muss auf dem Smartphone durchgeführt werden. Auf der sich
 öffnenden Webseite neben dem mit "Raw" beschrifteten Button ein Button
-mit einem Symbol "Pfeil nach unten" ("Download raw file"). Datei auf
-dem Smartphone sichern.
+mit einem Symbol "Pfeil nach unten" ("Download raw file"). Datei wird
+auf dem Smartphone gesichert, meist im Ordner "Download".
+
+!!! Unter Umständen hängt dein Browser (mindestens macht Firefox das)
+an den Dateinamen "germany_grid-filtered.gpx" ein ".txt" an, der
+Dateiname lautet dann "germany_grid-filtered.gpx.txt". Dann bitte erst
+die Datei wieder umbenennen in "germany_grid-filtered.gpx". Das geht
+mit Android eigenen Mitteln wie der App "Dateien" oder ähnlich.
 
 - Starten App, Icon mit Stern oder Sternen drauf, "Favoriten
   importieren" oder "Lesezeichen" oder ähnlich, GPX-Datei
-  importieren. Import kann auf langsamen Smartphones/Tablets 15-20 sec
-  dauern.
+  "germany_grid-filtered.gpx" importieren. Import kann auf langsamen
+  Smartphones/Tablets 15-20 sec dauern.
 
 - Kartendownload offline wird automatisch angeboten, wenn man in eine
   Region weiter rein zoomt. Also in alle Regionen rein zoomen, die
