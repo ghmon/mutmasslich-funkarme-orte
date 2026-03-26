@@ -105,6 +105,8 @@ Dateiname lautet dann "germany_grid-filtered.gpx.txt". Dann bitte erst
 die Datei wieder umbenennen in "germany_grid-filtered.gpx". Das geht
 mit Android eigenen Mitteln wie der App "Dateien" oder ähnlich.
 
+"raw file": https://raw.githubusercontent.com/ghmon/mutmasslich-funkarme-orte/refs/heads/main/germany_grid-filtered.gpx
+
 ### App "CoMaps" (Ableger von "Organic Maps")
 
 - Installieren
