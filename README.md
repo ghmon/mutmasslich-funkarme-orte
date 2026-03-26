@@ -103,9 +103,8 @@ auf dem Smartphone gesichert, meist im Ordner "Download".
 an den Dateinamen "germany_grid-filtered.gpx" ein ".txt" an, der
 Dateiname lautet dann "germany_grid-filtered.gpx.txt". Dann bitte erst
 die Datei wieder umbenennen in "germany_grid-filtered.gpx". Das geht
-mit Android eigenen Mitteln wie der App "Dateien" oder ähnlich.
-
-"raw file": https://raw.githubusercontent.com/ghmon/mutmasslich-funkarme-orte/refs/heads/main/germany_grid-filtered.gpx
+mit Android eigenen Mitteln wie der App "Dateien" oder ähnlichen Apps
+zur Dateiverwaltung.
 
 ### App "CoMaps" (Ableger von "Organic Maps")
 
@@ -214,7 +213,8 @@ auf dem Smartphone gesichert, meist im Ordner "Download".
 an den Dateinamen "germany_grid-filtered.gpx" ein ".txt" an, der
 Dateiname lautet dann "germany_grid-filtered.gpx.txt". Dann bitte erst
 die Datei wieder umbenennen in "germany_grid-filtered.gpx". Das geht
-mit Android eigenen Mitteln wie der App "Dateien" oder ähnlich.
+mit Android eigenen Mitteln wie der App "Dateien" oder ähnlichen Apps
+zur Dateiverwaltung.
 
 - Starten App, Icon mit Stern oder Sternen drauf, "Favoriten
   importieren" oder "Lesezeichen" oder ähnlich, GPX-Datei
